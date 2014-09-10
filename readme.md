@@ -1,6 +1,6 @@
 # A Base Template For Jekyll and Foundation 5
 
-Sometimes instead of writing world-changing back-end code, I design small static websites. They're simple, so they should be quick to create, but I'd still like them to look good and be easy to work with. I want a usable grid system. I want things to automatically look good on mobile devices. I want to write scss instead of CSS, to stave off carpel tunnel for a few more years.
+Sometimes instead of writing world-changing back-end code, I design small static websites. They're simple, so they should be quick to create, but I'd still like them to look good and be easy to work with. I want a usable grid system. I want things to automatically look good on mobile devices. I want to write scss instead of CSS, to stave off carpal tunnel for a few more years.
 
 That's why this template exists. Clone it, and you can be up and running in no time.
 
