@@ -12,10 +12,14 @@ I wanted a few features from a base template:
         gem install jekyll
         gem install compass
 
+## Configure
+-delete this readme.md
+-create your own git repo for the project:
+        rm -rf .git && git init .
+-configure foundation base colors + styles
+        # $EDITOR _sass/_settings.scss
 
 ## Develop
--delete this readme.md
--# rm -rf .git && git init . # (your own git repo for the project)
 -# develop happily
 -# compass watch # (to continuously update compiled CSS)
 -# jekyll serve  # (to keep refreshing + serving the generated site)
